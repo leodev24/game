@@ -66,7 +66,7 @@ function createarray(ar) {
         }
     }
     for (var i = 0; i < noCols; i++) {
-        // shuffleArray(arr[i]);
+        shuffleArray(arr[i]);
     }
 }
 
